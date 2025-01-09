@@ -1,0 +1,65 @@
+name,is_client,is_supplier,code,is_working_address,city,street,street_number,zip,phone,mobile,email,vat_reg_code
+Warm Control,1,1,1,1,Antwerpen,Wipstraat,34,2018,03 444 565,,,
+Archived Company,0,0,2,1,Aarrch city,archiefstraat,2,4567,034 567 890,,,
+FERMAX BELGIUM NV/SA,1,0,3,0,Galmaarden,Nieuwstraat 10,,1570,+32 54 31 82 80,,,
+Griffon d'Or,1,0,4,0,Potter City,Road Nine Three-Quarter,3/4,0,000-000-111,,,
+Doeteringen,0,0,5,1,Gent,Jan van Aelbroecklaan,27,9050,093 890 000,,,
+VireshTest,0,0,6,0,,,,,0,,,
+Hogwarts,1,1,7,0,Potter City,Road Nine-Three-Quarters,3/4,0,000-000-001,,,
+SONY Belgium,0,0,8,1,Zaventem,Leonardo da Vincilaan,7,1930,+32 2 724 17 11,,info@sony.be,
+Odyssee Mobile ,1,0,9,1,Brussel,Stalingradlaan ,100,1000,+32 2 513 48 19,,info@odysseemobile.com,459.288.169
+Waschsalon Weber & Co,1,0,10,1,91054,Adenauerstr.,4,Erlangen,+49 9131 18880,,info@waschsalon-weber.de,DE129274202
+LowCo,1,0,11,1,Zevenbergen,Haveneind,16,4761 BZ,0031 6 555 332,,,
+Logitech ,0,0,12,1,London ,1 High Street ,15,10900,777412521,,technicianuk@test.com,
+Company Booster,0,0,13,1,Brussel,Rue Wolvendael,10,1000,02 345 345,,,
+TestTask Company,0,0,14,1,Chaam,Dorpsstraat,58,4861 AD,0031 6 700 800,,,
+Schrezenmaier-kaeltetechnik,0,0,15,1,Schwerte,Adolph-Kolping-Straße 21,,58239 ,+49 2304 25584-0,,innfo@schrezenmaier-kaeltetechnik.de,
+Red company,1,0,16,0,Antwerpen,Grote Markt,2,2000,0478 365 365,,,BE25 236 4XX
+Herold AG ,1,0,17,1,Köln,Baulitzerstr.,400,50667,+49 6714 72681952,,info@heroldag.de,DE 165267608
+Company of SO B,0,0,18,1,3000,Naamsestraat,12,Leuven,056 677 655,,,
+Dockx,1,0,19,1,Lochristi,Pauwstraat,36,9080,ccc,,,
+ABC Limited,1,0,20,1,Heffen,ten doorn,2,2801,112256019,,test@test.com,BE0459288169
+La Lorraine Bakery Group,0,0,21,1,Ninove,Elisabethlaan 143,60,9400,,,,
+Fnac,0,0,22,1,Brussel,Nieuwstraat,6,1000,02 345 67 89,02 222 222 222,info@fnactest.be,459.288.169
+De grote hond,0,0,23,1,Beveren,Engelsesteenweg,39,9130,03 886 56 56,,,
+Betonlook,0,0,24,1,Breda,Minervum 2,7000,4817 ZL,0031 6 456 456,,,
+Fam. Altman - Schmidt,1,0,25,1,Kleve,Karlstraße,250,47533,+49 2821 1234567,,fritz.altman@klevemail.de,
+RemarkableCompany,0,0,26,1,Namen,rue des croisiers,43,5000,067 888 707,,,
+Serpentard,1,0,27,0,Potter City,Road Nine Three-Quarters,3/4,0,000-000-222,,,
+Asus,0,0,28,1,Mortsel,Pastoor de Tiliastraat,21,2640,03 456 789,,,
+Sanitäranlagen Bauer,0,0,29,1,Berchtesgarden,Sommerallee,5,92832,+49 9180 7261932,,info@sanitaer-bauer.de,DE 7485921049
+Allways Service,0,0,30,1,Leuven,Bondgenotenlaan,200,3000,054 345 345,,,
+ReadyMix Company,0,0,31,1,Brasschaat,Lage Kaart ,519,2930,02 333 456,02 444 567,info@readymix.com,
+Alveolia,0,0,32,1,Sint-Lambrechts-Woluwe,Vootstraat,97,1200,02 543 543,,,
+Sunday Morning Ltd,0,0,33,0,Stardust,Morning Star,2,2222,1234556,,,456456456
+Friedrich Fischer,1,0,34,1,Münster,Schlossplatz,485,48143,+49 251 987 65 43,,,
+Royal Golf Club,0,0,35,1,Schoten,Botermelkbaan,2,2900,02 345 345,02 456 456,info@rgc.be,
+Stad Antwerpen,0,0,36,1,Antwerpen,Grote Markt,2,2000,03 444 555,,info@stadantwerpen.be,
+VeryGoodCompany,0,0,37,1,Kortenaken,Krawatenstraat,67,3470,056 789 000,,,
+VWV,0,0,38,1,Gilze,Aalstraat,42,5126 CP,0031 6 782 654,,,
+HZET,1,1,39,1,Scherpenheuvel-Zichem,Markt,35,3271,+32 2 513 48 19,,,
+CMS,1,0,40,0,Schaerbeek,Gustave Latinislaan,90,1030,02 345 345,,,
+J.F.M Janssens,1,0,41,0,Hamsterdam,Hoofdstraat,12,1234 AB,3120123456789,,,
+Maintenance Service Fisher,0,0,42,0,London,St Katharine's Way,4,E1W 1LD,+44 800 330 8005,,,
+HVAC Maintenance,1,0,43,1,Leuven,Heilige-Geeststraat ,54,3000,016 458 89 56,,,
+TotalExpress,0,0,44,1,Antwerpen,Hessenstraatje,5,2000,03 678 98 98,0477 560 456,info@totalexpress.com,
+Roury Ave,0,0,45,0,Birmingham,Brimingham street,23,23434,,,,
+Artimisia,1,0,46,0,Gent,Kwaadham 52,,9000,+32 9 233 80 59,,,BE0558917067
+truly your,0,0,47,1,,,,,,,,
+Tony Vuong Superman Limited,1,0,48,0,Sydney,789 Pitt St,,2200,0943.860.580,,,10
+Truly Yours,1,0,49,1,Mechelen,ijzerenleen,22,2800,03 456 555,,info@testcompanybymihiran.com,
+Deroeck,0,0,50,1,Antwerpen,hessenstraatje,5,2000,03 123 123,,,
+FB,1,0,51,0,Bruxelles,Rue d'Internet,1,1000,000-111-222,,,BE1111111111
+Charly's,0,0,52,1,Gent,Graanmarkt,2,9000,09 390 4545,,,BE0459.288.169
+Henning,1,0,53,0,München,Rehkemperstraße,8,81247,896563893,,,
+Mijn ,1,0,54,1,Lummen,Schansstraat,30,3560,1234,,,
+NoaddressCompany,0,0,55,1,,,,,02 345,,,
+Fam. Janssens-Peeters,1,0,56,0,Balen,Kerkstraat 12,,2490,3214123456789,,,
+Caterpilar,1,0,57,1,Jette,De Smet de Naeyerlaan,320,1090,+32 2 513 48 19,,,
+First Bicobel,1,1,58,1,Machelen,Sint-Korneliusstraat,7,1831,09 345 567,,info@company1.com,458.567.456
+NewCompany,0,0,59,1,Elsene,charleroise steenweg,100,1050,02 345 234,,,
+Fire Security,1,0,60,1,Hoeilaart,Charles Coppensstraat,70,1560,02 542 13 25,,,
+BHV AG,1,0,61,1,Brussel,Stalingradlaan,96,1000,+32 2 513 48 19,,,
+Familie Convent,0,0,62,1,Brussel,Sint-Katelijneplein,3,1000,+32 2 513 48 19,,,
+Top IV,0,0,63,1,Ukkel,rue Moscicki,25,1180,02 345 345,,,
+ODS,0,0,64,1,Brussel,Gildenstraat,24,1000,02 111 222,,,
